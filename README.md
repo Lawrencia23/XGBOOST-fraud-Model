@@ -11,8 +11,6 @@ Perform Exploratory Data Analysis (EDA) on transaction patterns, spending behavi
 
 ##### 3.Develop predictive models for:
 
-•	Forecasting income vs. expenses.
-•	Detecting “spreading” (large inflow followed by rapid outflows).
 •	Identifying high-risk accounts.
 
 ##### Provide a fraud detection API that flags suspicious transactions in real time.
