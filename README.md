@@ -4,19 +4,19 @@ This project was aimed to simulate a modern digital banking platform using micro
 
 ## As a part of the Data Scienec Divison 
 
-### Role: Analyze transactional data, build predictive models, and deliver actionable insights.
+##### Role: Analyze transactional data, build predictive models, and deliver actionable insights.
 
 •	Tasks:
 Perform Exploratory Data Analysis (EDA) on transaction patterns, spending behavior, and risk indicators)
 
-### 3.Develop predictive models for:
+##### 3.Develop predictive models for:
 
 •	Forecasting income vs. expenses.
 •	Detecting “spreading” (large inflow followed by rapid outflows).
 •	Identifying high-risk accounts.
 
-### Provide a fraud detection API that flags suspicious transactions in real time.
+##### Provide a fraud detection API that flags suspicious transactions in real time.
 
-### 3. Interaction Points:
+##### 3. Interaction Points:
 •	Share insights and models with Developers for integration into the system.
 •	Collaborate with AI Engineers to refine agentic AI decision-making.
